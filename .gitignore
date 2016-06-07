@@ -1,5 +1,11 @@
 /target/**
 /logs/**
+/.DS_Store/**
+
+#eclipse
+/.classpath/**
+/.project/**
+/.settings/**
 
 #Netbeans
 /nbactions.xml
